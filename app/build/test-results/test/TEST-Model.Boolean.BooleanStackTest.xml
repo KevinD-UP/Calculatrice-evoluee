@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Model.Boolean.BooleanStackTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-01-14T11:24:27" hostname="localhost.localdomain" time="0.013">
+  <properties/>
+  <testcase name="isOperatorEt" classname="Model.Boolean.BooleanStackTest" time="0.002"/>
+  <testcase name="isOperatorOu" classname="Model.Boolean.BooleanStackTest" time="0.0"/>
+  <testcase name="doOperationNot" classname="Model.Boolean.BooleanStackTest" time="0.0"/>
+  <testcase name="isOperatorNot" classname="Model.Boolean.BooleanStackTest" time="0.001"/>
+  <testcase name="getValueFaux" classname="Model.Boolean.BooleanStackTest" time="0.0"/>
+  <testcase name="getValueVrai" classname="Model.Boolean.BooleanStackTest" time="0.001"/>
+  <testcase name="doOperationEt" classname="Model.Boolean.BooleanStackTest" time="0.001"/>
+  <testcase name="doOperationOu" classname="Model.Boolean.BooleanStackTest" time="0.0"/>
+  <testcase name="getValueError" classname="Model.Boolean.BooleanStackTest" time="0.006"/>
+  <system-out><![CDATA[	EZLKjkbkjkKBKBKB515ZEF56D6Z1A65DZ65A n'est pas reconnu.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

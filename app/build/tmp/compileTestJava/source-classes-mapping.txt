@@ -1,0 +1,20 @@
+Model/Double/DoubleStackTest.java
+ Model.Double.DoubleStackTest
+Calculatrice/AppTest.java
+ Calculatrice.AppTest
+Model/Boolean/BooleanTest.java
+ Model.Boolean.BooleanTest
+Model/Double/OperatorDoubleTest.java
+ Model.Double.OperatorDoubleTest
+Model/Boolean/OperatorBooleanTest.java
+ Model.Boolean.OperatorBooleanTest
+Model/Boolean/BooleanStackTest.java
+ Model.Boolean.BooleanStackTest
+Model/Set/OperatorSetTest.java
+ Model.Set.OperatorSetTest
+Model/Fraction/OperatorFractionTest.java
+ Model.Fraction.OperatorFractionTest
+Model/Fraction/FractionStackTest.java
+ Model.Fraction.FractionStackTest
+Model/Set/SetStackTest.java
+ Model.Set.SetStackTest

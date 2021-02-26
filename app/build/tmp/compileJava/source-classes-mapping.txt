@@ -1,0 +1,30 @@
+Model/Double/DoubleStack.java
+ Model.Double.DoubleStack
+Model/Fraction/FractionStack.java
+ Model.Fraction.FractionStack
+Calculatrice/App.java
+ Calculatrice.App
+Model/Boolean/BooleanStack.java
+ Model.Boolean.BooleanStack
+Model/Set/SetStack.java
+ Model.Set.SetStack
+Model/Double/OperatorDouble.java
+ Model.Double.OperatorDouble
+Model/Stack.java
+ Model.Stack
+Model/Boolean/OperatorBoolean.java
+ Model.Boolean.OperatorBoolean
+Model/Boolean/Boolean.java
+ Model.Boolean.Boolean
+Model/Fraction/OperatorFraction.java
+ Model.Fraction.OperatorFraction
+Model/VariableListBehavior.java
+ Model.VariableListBehavior
+Model/Operator.java
+ Model.Operator
+Model/StackBehavior.java
+ Model.StackBehavior
+Model/VariableList.java
+ Model.VariableList
+Model/Set/OperatorSet.java
+ Model.Set.OperatorSet

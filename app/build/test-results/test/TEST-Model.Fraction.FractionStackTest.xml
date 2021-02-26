@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Model.Fraction.FractionStackTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-01-14T11:24:27" hostname="localhost.localdomain" time="0.012">
+  <properties/>
+  <testcase name="doOperationMoins" classname="Model.Fraction.FractionStackTest" time="0.005"/>
+  <testcase name="isOperatorDivision" classname="Model.Fraction.FractionStackTest" time="0.001"/>
+  <testcase name="isOperatorMoins" classname="Model.Fraction.FractionStackTest" time="0.0"/>
+  <testcase name="isOperatorFois" classname="Model.Fraction.FractionStackTest" time="0.001"/>
+  <testcase name="isOperatorPlus" classname="Model.Fraction.FractionStackTest" time="0.0"/>
+  <testcase name="doOperationDivision" classname="Model.Fraction.FractionStackTest" time="0.001"/>
+  <testcase name="doOperationFois" classname="Model.Fraction.FractionStackTest" time="0.001"/>
+  <testcase name="doOperationPlus" classname="Model.Fraction.FractionStackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
